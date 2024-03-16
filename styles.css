@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+p{
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-family: 'Berksheri Swash', cursive;
+    font-family: 'Sacramento', cursive;
+    font-family: 'Muli', sans-serif ;
+    font-family: 'Great Vibes' cursive;
+    font-size: 70px;
+    color: rgba(236, 240, 241, 1.0);
+
+}
+.container{
+    background: url(ireland-1971997_1920.jpg);
+    width: 100%;
+    height: 670px;
+    background-size: cover; 
+    position: absolute;
+}
+.Login{
+    margin: 0 auto; 
+    width: 400px;
+    text-align: center;
+    background-color: rgba(44, 62, 80, .7);
+    padding-top: 60px;
+    border-bottom: 5px solid rgba(46, 204, 113, 1.0);
+    padding-bottom: 60px;
+}
+.reg{
+    margin: 0 auto;
+    width: 400px;
+    text-align: center;
+    background-color: rgba(44, 62, 80, .7);
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-bottom: 5px solid rgba(46, 204, 113, 1.0);
+}
+
+input{
+    height: 45px;
+    width: 270px;
+    margin: 10px;
+    border: none;
+    font: 1em sans-serif;
+    background-color: rgba(236, 240, 241, .8);
+}
+.btn{
+    background-color: rgba(39, 174, 96, .7);
+    font-family: sans-serif;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: rgba(236, 240, 241, 1.0);
+    height: 50px;
+}
+.btn:hover{
+    background-color:rgba(39, 174, 96, 1.0);
+}
+.icon{
+    color: white;
+}
+.buttons{
+    margin: 0 auto;
+    width: 400px;
+    margin-top: 4%;
+
+}
+#Login{
+    color: rgba(189, 195, 199, 1.0);
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: rgba(22, 160, 133, .6);
+    padding: 15px;
+    width: 200px;
+    border: none;
+    cursor: pointer;
+}
+#Login:hover{
+    background-color: rgba(22, 160, 133, 1.0);
+
+}
+
+#reg{
+    color: rgba(189, 195, 199, 1.0);
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: rgba(52, 152, 219, .6);
+    padding: 15px;
+    width: 200px;
+    border: none;
+    cursor: pointer;
+}
+#reg:hover{
+    background-color: rgba(22, 160, 133, 1.0);
+    
+}
+
+
+
+
+
